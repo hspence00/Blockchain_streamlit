@@ -94,8 +94,8 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 You’ll upload the Python file for this assignment to your GitHub repository.
 
-* Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
-
+* Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit
+![Screenshot 2022-12-19 at 4.38.37 PM.png](https://github.com/hspence00/Blockchain_streamlit/blob/main/Images/Screenshot%202022-12-19%20at%204.38.37%20PM.png)
 * Submit the link to your GitHub project to Bootcamp Spot.
 
 ---
